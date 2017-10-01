@@ -1,0 +1,14 @@
+body{
+	background: url("../images/concrete_seamless.png");
+}
+
+#image_cat{
+	margin-right: 20px;
+	margin-bottom: 20px;
+}
+#footer{
+	margin-top: 20px;
+	padding: 15px;
+	background: black;
+	color: #9d9d9d;
+}
